@@ -1,0 +1,6 @@
+# An example YAML file
+user_information:
+  username: tmccoy14
+  email: tucker@email.com
+  verification:
+    verified: true
